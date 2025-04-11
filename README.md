@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franzjoshuagopez
 - 👀 I’m interested in RPA, RPA Infrastructure and programming languages such as C#, VBA, VB.NET, Javascript, JSON, HTML and CSS
-- 🌱 I’m currently learning UI Path, UI Path Infrastructure and AWS
-- 💞️ I’m looking to collaborate on anything RPA
+- 🌱 I’m currently learning Python, SQL, Data Analysis, and Machine Learning
+- 💞️ I’m looking to collaborate on anything RPA, Data Science, Web Development, Data Analysis, and Machine Learning
 - 📫 How to reach me kindly send me an email through franzjoshuagopez@gmail.com
 
 <!---
