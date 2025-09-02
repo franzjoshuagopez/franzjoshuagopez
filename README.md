@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything RPA, Data Science, Web Development, Data Analysis, Machine Learning, and Agentic AI
 - 📫 How to reach me kindly send me an email through franzjoshuagopez@gmail.com
 
-- Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn logo" width="30"/>](https://www.linkedin.com/in/franzgopez/)
+- Connect with me:<br><br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn logo" width="50"/>](https://www.linkedin.com/in/franzgopez/)
 
 <!---
 franzjoshuagopez/franzjoshuagopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
