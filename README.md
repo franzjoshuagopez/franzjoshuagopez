@@ -5,7 +5,7 @@
 - 📫 How to reach me kindly send me an email through franzjoshuagopez@gmail.com
 
 - Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franzgopez/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn logo" width="30"/>](https://www.linkedin.com/in/franzgopez/)
 
 <!---
 franzjoshuagopez/franzjoshuagopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
